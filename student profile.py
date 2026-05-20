@@ -1,0 +1,17 @@
+a=input("Name: ")
+b=input("Id-No: ")
+c=input("Mobile No: ")
+d=input("Email-id: ")
+e=input("Date of birth: ")
+f=input("City: ")
+g=input("Address: ")
+print(".....................STUDENT PROFILE...................")
+print("1] NAME\t\t\t:",a)
+print("2] ID-NO\t\t:",b)
+print("3] MOBILE NO\t\t:",c)
+print("4] EMAIL-ID\t\t:",d)
+print("5] DATE OF BIRTH\t:",e)
+print("6] CITY\t\t\t:",f)
+print("7] ADDRESS\t\t:",g)
+
+
